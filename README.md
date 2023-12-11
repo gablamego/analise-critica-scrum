@@ -1,1 +1,9 @@
-# analise-critica-scrum
+Case Sentinel
+
+O caso do projeto Sentinel do FBI em 2006 é um exemplo notável de uma organização governamental enfrentando desafios significativos ao desenvolver um projeto complexo que tinha a ambição de digitalizar os arquivos de casos de investigações, com uma base prevista de mais de 30 mil usuários finais. No entanto, a abordagem em cascata inicialmente escolhida se revelou inadequada, devido às mudanças constantes nas necessidades e requisitos, além do custo que excedeu significativamente o orçamento original, resultando em atrasos substanciais.
+
+O que torna esse caso notável é a ousadia do FBI ao adotar o Scrum como sua metodologia de desenvolvimento, uma mudança que trouxe inovação em várias dimensões. O resultado mais marcante foi a economia de mais de 90% nos custos do projeto, reduzindo o orçamento estimado de US$ 451 milhões para apenas cerca de US$ 30 milhões. Essa economia é verdadeiramente surpreendente e reflete uma abordagem financeiramente responsável.
+
+Além disso, a mudança na cultura organizacional do FBI para abraçar a mentalidade ágil foi notável. A ênfase na colaboração, flexibilidade e entrega contínua de valor se estendeu além do projeto Sentinel, permitindo que as equipes se adaptassem às mudanças e aprimorassem o processo continuamente.
+
+Em resumo, o caso do projeto Sentinel do FBI é inovador não apenas por sua impressionante economia financeira, mas também por sua disposição de adotar uma nova abordagem de desenvolvimento dentro de uma das organizações governamentais mais respeitadas e históricas. Além disso, destaca a capacidade de se adaptar às mudanças de maneira eficiente, o que é essencial para o sucesso em projetos complexos. Este caso serve como um exemplo inspirador de como a inovação e a agilidade podem ser aplicadas alem do  setor de big techs para alcançar resultados extraordinários.
